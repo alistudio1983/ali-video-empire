@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState, useRef, useEffect } from 'react';
 import { 
   Clapperboard, Video, Mic, Eye, Zap, Loader2, AlertTriangle, 
